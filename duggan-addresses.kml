@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-<Style id="desired_id">
+<Style id="yellow">
   <IconStyle>
     <Icon>
       <href>https://zackbeck.github.io/kml/placemark.png</href>
@@ -16,6 +16,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-114.0447981,51.105773</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1360 Glenn Square,Anchorage,AK 99508</name>
@@ -24,6 +25,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-149.8187257,61.2203287</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5000 Bass Pro Blvd.,Leeds,AL 35094</name>
@@ -32,6 +34,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.5919558,33.5430469</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7010 Governors West,Huntsville,AL 35806</name>
@@ -40,6 +43,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.6779092,34.7094075</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2300 S. Promenade Blvd,Rogers,AR 72758</name>
@@ -48,6 +52,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-94.1758547,36.3013151</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2300 South Promenade Blvd,Rogers,AR 72758</name>
@@ -56,6 +61,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-94.1758547,36.3013151</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1818 McCallum Road,Abbotsford,BC V2S 0H9</name>
@@ -64,6 +70,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-122.2895154,49.0354922</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4775 Nulelem Way,Tsawwassen,BC V4M 4G9</name>
@@ -72,6 +79,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-123.0924876,49.0356049</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4900 Nulelum Way,Delta,BC V4M 4G9</name>
@@ -80,6 +88,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-123.0924876,49.0356049</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>6900 North Island Hwy Dickenson Crossing,Nanaimo,BC V9V 1P6</name>
@@ -88,6 +97,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-124.0512521,49.2401402</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>6900 North Island Hwy,Dickenson Crossing,BC V9V 1P6</name>
@@ -96,6 +106,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-124.0512521,49.2401402</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>100 Universal City Plaza,Universal City, 91608</name>
@@ -104,6 +115,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.3520161,34.1361918</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1248 Galleria Blvd,Roseville,CA 95678</name>
@@ -112,6 +124,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-121.2636202,38.7749314</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5160 Cherry Ave,San Jose,CA 95118</name>
@@ -120,6 +133,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-121.8734276,37.2571749</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5160 Cherry Avenue,San Jose,CA 95118</name>
@@ -128,6 +142,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-121.8734276,37.2571749</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5472 Crossings Drive,Rocklin,CA 95650</name>
@@ -136,6 +151,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-121.2009233,38.8045177</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5472 Crossings Drive,Rocklin,CA 95677</name>
@@ -144,6 +160,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-121.2009233,38.8045177</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7777 Victoria Gardens Lane,Rancho Cucamonga,CA 95337</name>
@@ -152,6 +169,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-117.5270902,34.1127803</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13801 Grant Street,Thornton,CO 80023</name>
@@ -160,6 +178,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.9854157,39.947938</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>14050 Lincoln Street,Thornton,CO 80023</name>
@@ -168,6 +187,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.9858002,39.9517473</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7970 Northfield Blvd.,Denver ,CO 80238</name>
@@ -176,6 +196,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.8956588,39.7810463</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7970 Northfield Blvd.,Denver,CO 80238</name>
@@ -184,6 +205,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.8956588,39.7810463</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>9494 Federal Drive,Colorado Springs,CO 80921</name>
@@ -192,6 +214,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-104.81026,38.9952343</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>325 Stratford Avenue,Bridgeport,CT 6608</name>
@@ -200,6 +223,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-73.1814384,41.1780663</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>475 East Harford Blvd., North,East Hartford,CT 6118</name>
@@ -208,6 +232,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-72.6223463,41.7557146</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>475 East Hartford Blvd,East Hartford,CT 6118</name>
@@ -216,6 +241,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-72.6223463,41.7557146</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>508 Straford Ave.,Bridgeport,CT 6608</name>
@@ -224,6 +250,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-73.1784289,41.1766936</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>508 Straford Ave.,Bridgeprot,CT 6608</name>
@@ -232,6 +259,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-73.1784289,41.1766936</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1100 Christiana Mall Road,Newark,DE 19702</name>
@@ -240,6 +268,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-75.6526245,39.6833012</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 Legoland Way,Winter Have,FL 33884</name>
@@ -248,6 +277,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.6918783,27.9924787</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>10501 Palm River Rd,Tampa,FL 33619</name>
@@ -256,6 +286,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.3334897,27.9344708</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>12801 West Sunrise Blvd,Sunrise,FL 33323-4020</name>
@@ -264,6 +295,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.324785,26.1491963</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1363 NW St. Lucie West Blvd,Port St. Lucie,FL 34986</name>
@@ -272,6 +304,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.3902238,27.3172969</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1363 NW Street,Port St. Lucie,FL 34986</name>
@@ -280,6 +313,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.3900166,27.3177133</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>148 Mocking Bird Lane,Marathon,FL 33050</name>
@@ -288,6 +322,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.0809201,24.7067125</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1880 Checkered Flag Blvd,Daytona Beach,FL 32114</name>
@@ -296,6 +331,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.0726197,29.1920877</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1880 West Checkered Flag Blvd,Daytona Beach,FL 32114</name>
@@ -304,6 +340,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.0726197,29.1920877</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>19191 S. Dixie Hwy,Cutler Bay,FL 33157</name>
@@ -312,6 +349,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.3577739,25.5885625</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>19400 Cochran Blvd,Port Charlotte,FL 33948</name>
@@ -320,6 +358,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.1348061,27.0091505</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>200 Gulf Stream Way,Dania Beach,FL 33004</name>
@@ -328,6 +367,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.1639645,26.0577773</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>200 Townbe Center Circle,Sanford,FL 32771</name>
@@ -336,6 +376,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.3388599,28.8034556</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2244 University SQ Mall,Tampa,FL 33612</name>
@@ -344,6 +385,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.4330596,28.0582464</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2403 SW 27th Avenue,Ocala,FL 34474</name>
@@ -352,6 +394,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.1670096,29.1648611</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2601 Okeechobee Blvd,W Palm Beach,FL 33409</name>
@@ -360,6 +403,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.0921225,26.7078549</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>300 Hamden Drive,Clearwater,FL 33767</name>
@@ -368,6 +412,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.8278409,27.9729465</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>351 S. Studio Drive,Lake Buena Vista,FL 32830</name>
@@ -376,6 +421,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.5612487,28.3561129</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3800 US Hwy 98 N,Lakeland,FL 33809</name>
@@ -384,6 +430,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.9778558,28.0937664</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4251 Legendary Drive,Destin,FL 32541</name>
@@ -392,6 +439,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.4258306,30.3899389</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4301 Legendary Drive,Destin,FL 32541</name>
@@ -400,6 +448,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.4225903,30.3903041</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4301 Legendary Drive,Destin,FL 32608</name>
@@ -408,6 +457,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.4225053,30.3902534</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4526 SW Archer Road,Gainesville,FL 32608</name>
@@ -416,6 +466,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.392338,29.614991</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>461 &amp; 471 South Atlantic Ave.,Daytona Beach,FL 32118</name>
@@ -424,6 +475,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.0036389,29.2193806</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4650 S Cleveland Ave,Fort Myers,FL 33907</name>
@@ -432,6 +484,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.8735951,26.5943186</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>6000 Lake Gray Blvd,Jacksonville,FL 32244-5826</name>
@@ -440,6 +493,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.7416938,30.199328</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>6411 Taccoma Drive,New Port Richey,FL 34668</name>
@@ -448,6 +502,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.7088722,28.2981853</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>740 W. Osceola Pkwy,Kissimmee,FL 34741</name>
@@ -456,6 +511,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.4097827,28.3381796</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>755 S State RD 7,Hollywood,FL 33023</name>
@@ -464,6 +520,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.2078331,26.016642</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>FLL HMS Host Air Margaritaville 1631,FLL T1B-C Fort Lauderdale,FL 33315</name>
@@ -472,6 +529,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.1396129,26.072736</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>One Daytona Development,Daytona Beach ,FL</name>
@@ -480,6 +538,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.0714315,29.1931944</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>152 Northpoint Pkwy.,Acworth,GA 30102</name>
@@ -488,6 +547,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-84.6506916,34.081701</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>350 Cobb Parkway,Ringgold,GA 30736</name>
@@ -496,6 +556,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.196043,34.9700414</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4310 Lavista Road,Tucker,GA 30084</name>
@@ -504,6 +565,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-84.2432001,33.8488228</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5900 Sugarloaf Pkwy,Lawrenceville,GA 30043</name>
@@ -512,6 +574,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-84.079501,33.9811233</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7000 Lanier Islands Parkway,Buford,GA 30518</name>
@@ -520,6 +583,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-84.0196753,34.1779005</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1248 S. Gear Ave.,West Burlington,IA 52655</name>
@@ -528,6 +592,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.1688738,40.8081199</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1930 Des Moines Ave,Burlington,IA 52601</name>
@@ -536,6 +601,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.1079736,40.8289532</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1930 Des Moines Ave,Burlington,IA 63005</name>
@@ -544,6 +610,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.1079736,40.8289532</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1930 Des Moines Ave.,Burlington,IA 52601</name>
@@ -552,6 +619,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.1079736,40.8289532</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7th &amp; Angular,Burlington,IA 52601</name>
@@ -560,6 +628,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.1080284,40.8023383</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8778 170th Street,Burlington,IA 52601</name>
@@ -568,6 +637,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.1001605,40.928923</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3693 S. 25th E,Ammon,ID 83406</name>
@@ -576,6 +646,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-111.9813071,43.4647688</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3693 South 25th East,Ammon,ID 83406</name>
@@ -584,6 +655,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-111.9813071,43.4647688</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8109 West Franklin Rd,Boise,ID 83709</name>
@@ -592,6 +664,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-116.2830951,43.60312</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>#3 American Village,Granite City,IL 62040</name>
@@ -600,6 +673,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.1243909,38.7239886</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>10405 N. Centerway Drive,Peoria,IL 61615</name>
@@ -608,6 +682,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-89.6155633,40.8151397</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>109 Corporate Drive,Swansea,IL 62226</name>
@@ -616,6 +691,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-89.9833206,38.5683152</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1412 Schaeffer Road,Granite City,IL 62040</name>
@@ -624,6 +700,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.1348006,38.7374777</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1574 W Highway 50,O'Fallon,IL 62269</name>
@@ -632,6 +709,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-89.9536549,38.5926513</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>202 Oakbrook Center,Oak Brook,IL 60523</name>
@@ -640,6 +718,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-87.950768,41.8492116</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2020 Mall Road,Collinsville,IL 62234</name>
@@ -648,6 +727,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.0205306,38.6743805</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2500 Wabash Avenue,Springfield,IL 62704</name>
@@ -656,6 +736,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-89.7049735,39.7627887</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>509 Hamacher Ste #200B,Waterloo,IL 62298</name>
@@ -664,6 +745,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.1355993,38.344782</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5225 Prairie Stone Parkway,Hoffman Estates,IL 60192</name>
@@ -672,6 +754,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-88.2050283,42.0725391</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>600 West Chicago,Chicago,IL 60610</name>
@@ -680,6 +763,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-87.6433909,41.897642</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>10225 Indianapolis Blvd,Highland,IN 46322</name>
@@ -688,6 +772,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-87.4691581,41.5288517</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13725 Cabela Parkway,Noblesville,IN 46060</name>
@@ -696,6 +781,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.9366826,39.9886091</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>137525 Corporate Parkway,Noblesville,IN 46060</name>
@@ -704,6 +790,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.9344799,39.9948298</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5660 Crawfordsville Rd Ste D,Speedway,IN 46224</name>
@@ -712,6 +799,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.2584216,39.7973076</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>6020 N. Mesa Street,Mishawaka,IN 46545</name>
@@ -720,6 +808,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-106.5283936,31.8322442</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7901 US Highway Road,Indianapolis,IN 46227</name>
@@ -728,6 +817,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.1354809,39.6520645</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>951 E. Lewis &amp; Clark Pkwy,Clarksville,IN 47129</name>
@@ -736,6 +826,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.7603362,38.3202404</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>951 E. Lewis &amp; Clark Pkwy.,Clarksville,IN 47129</name>
@@ -744,6 +835,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.7603362,38.3202404</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>12051 Bass Pro Drive,Olathe,KS 66061</name>
@@ -752,6 +844,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-94.7771303,38.9097569</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13228 West 99th Street,Lenexa,KS 66215</name>
@@ -760,6 +853,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-94.739566,38.950014</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2427 N. Greenwich Road,Wichita,KS 67226</name>
@@ -768,6 +862,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-97.2118659,37.7270349</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1510 Conservative Way,Lexington,KY 40509</name>
@@ -776,6 +871,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-84.4116534,38.0257871</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3395 Trey Court,Bowling Green,KY 42103</name>
@@ -784,6 +880,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-86.4170012,36.9388811</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3600 Bardstown Rd,Louisville,KY 40218</name>
@@ -792,6 +889,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.6627253,38.2002198</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5100 Norton Healthcare Blvd.,Louisville,KY 40241</name>
@@ -800,6 +898,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.570376,38.3133183</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>6060 Siegen Lane,Baton Rouge,LA 70809-4525</name>
@@ -808,6 +907,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.0585387,30.3959327</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 Bass Pro Drive,Foxborough,MA 2035</name>
@@ -816,6 +916,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-71.2727308,42.0847195</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>110 Cabela Blvd., East,Dundee,MI 48131</name>
@@ -824,6 +925,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-83.6762443,41.9644132</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3000 44th Street SW,Grandville,MI 49418</name>
@@ -832,6 +934,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.7386219,42.8825134</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4125 Terminal Drive, Suite 100,McFarland,MI 53558</name>
@@ -840,6 +943,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-89.3006009,43.0372245</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>44311 Grand River Ave.,Novi,MI 48375</name>
@@ -848,6 +952,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-83.4855246,42.4822088</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1117 6th Street NW,Rochester,MN 55901</name>
@@ -856,6 +961,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-92.4796578,44.029605</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>20200 rogers Dirve,Rogers,MN 55374</name>
@@ -864,6 +970,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.5365406,45.1877654</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>344 East Broadway,Bloomington,MN 55124-5514</name>
@@ -872,6 +979,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2401393,44.8539446</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8400 Hudson Road,Woodbury,MN 55125</name>
@@ -880,6 +988,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-92.9361689,44.9461902</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>#06 Vista Brook,Ladue,MO 63124</name>
@@ -888,6 +997,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3787161,38.6347785</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>#20 Gravois Dillion Plaza,High Ridge,MO 63049</name>
@@ -896,6 +1006,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5217949,38.4780854</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>#4 Algonquin Wood place,Glendale,MO 63122</name>
@@ -904,6 +1015,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3763029,38.590005</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 Barret Woods ,Ballwin,MO 63021</name>
@@ -912,6 +1024,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4667132,38.5861997</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 Barret Woods,Ballwin,MO 63021</name>
@@ -920,6 +1033,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4667132,38.5861997</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 Bass Pro Drive,Branson,MO 65616</name>
@@ -928,6 +1042,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2135224,36.6414441</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>100 Bourbeuse River Access,Union,</name>
@@ -936,6 +1051,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.991415,38.442055</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1002 Peruque Crossing Court,O'Fallon,MO 63366</name>
@@ -944,6 +1060,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.7670595,38.8054939</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>10046 Litzsinger Rd,Ladue,MO 63124</name>
@@ -952,6 +1069,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3990637,38.625123</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>101 Stag Industrial Blvd,Lake St. Louis,MO 63367</name>
@@ -960,6 +1078,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.8019518,38.765875</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1015 East Terra Lane,O'Fallon,MO 63368</name>
@@ -968,6 +1087,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6833656,38.8037286</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1020 Grand Teton Drive,St. Peters,MO 63376</name>
@@ -976,6 +1096,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6134591,38.7929522</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1033 Wolfrum Road,Weldon Springs,MO 63304</name>
@@ -984,6 +1105,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6445828,38.7291723</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1053 Cave Springs Rd.,St. Peters,MO 63376</name>
@@ -992,6 +1114,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5664918,38.7914718</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>10874 Rimber Ridge Rd.,Richwoods,MO 63080</name>
@@ -1000,6 +1123,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.8319017,38.1576788</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>10874 Timber Ridge Road,Richwoods,MO 63080</name>
@@ -1008,6 +1132,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.0900976,38.1566774</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1110 Mid Rivers Industrial Dr,St. Peters,MO 63376</name>
@@ -1016,6 +1141,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6233705,38.8055134</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1110 Mid Rivers Industrial Drive,St. Peters,MO 63376</name>
@@ -1024,6 +1150,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6233705,38.8055134</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1112 Center Drive ,Richmond Heights,MO 63117</name>
@@ -1032,6 +1159,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.330072,38.63455</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>11127 Leisure Lane,Clayton ,MO 63105</name>
@@ -1040,6 +1168,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4272661,38.6758576</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1130 Mid Rivers Industrial Dr,St. Peters, 63376</name>
@@ -1048,6 +1177,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6240824,38.8046515</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1130 Mid Rivers Industrial Drive,St. Peters,MO 63376</name>
@@ -1056,6 +1186,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6240824,38.8046515</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>11411 Conway Road,St. Louis,MO 63131</name>
@@ -1064,6 +1195,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4264004,38.6409197</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1151 Jungs Station Road,St. Charles,MO 63376</name>
@@ -1072,6 +1204,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5626933,38.743026</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>11687 Adie Road,Maryland Heights,MO 63043</name>
@@ -1080,6 +1213,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4315571,38.7069331</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1172 West Terra,O'Fallon,MO</name>
@@ -1088,6 +1222,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.7326775,38.8042426</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>11801 Conway Road,St. Louis,MO 63131</name>
@@ -1096,6 +1231,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4325015,38.6410634</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>11965 St. Charles Rock Rd.,Bridgeton,MO 63044</name>
@@ -1104,6 +1240,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4204924,38.7472262</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>12050 Carberry Place,St. Louis,MO 63131</name>
@@ -1112,6 +1249,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4389063,38.622768</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1212 Silvers Road,St. Peters,MO 63376</name>
@@ -1120,6 +1258,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6371298,38.8146559</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>12345 West Bend,St. Louis,MO 63128</name>
@@ -1128,6 +1267,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3746378,38.511082</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1250 Golf Club Drive,Hollister,MO 65672</name>
@@ -1136,6 +1276,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.1968445,36.5612035</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>12561 Mason Forest Drive,Ladue,MO 63141</name>
@@ -1144,6 +1285,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4664183,38.6643042</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1281 N. Warson Road,St. Louis,MO 63132</name>
@@ -1152,6 +1294,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3952301,38.683198</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13075 Manchester Road,St. Louis,MO 63131</name>
@@ -1160,6 +1303,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4617116,38.6031389</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>131 Barnes Hollow Drive,Camdenton,MO 65020</name>
@@ -1168,6 +1312,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-92.8151817,38.0545668</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13501 Ladue Rd.,Town and Country, 63141</name>
@@ -1176,6 +1321,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.499818,38.6606359</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13645 Shoreline,Earth City,MO 63045</name>
@@ -1184,6 +1330,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.460489,38.773024</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1366 Chrismas Valley Rd.,Wildwood, 63005</name>
@@ -1192,6 +1339,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6360564,38.6202269</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1366 Christmas Valley Road,Wildwood,MO 63305</name>
@@ -1200,6 +1348,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6360564,38.6202269</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13665 Lakefront Drive,Earth City,MO 63045</name>
@@ -1208,6 +1357,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4644632,38.7656504</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1368 Long Creek Road,Ridgedale,MO 65739</name>
@@ -1216,6 +1366,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.3070204,36.5201427</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>13864 Parks Steed Drive,Earth City,MO 63045</name>
@@ -1224,6 +1375,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4722069,38.7667882</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>140 Manda Ct,Troy,MO 63379</name>
@@ -1232,6 +1384,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.0099331,38.9781866</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>14015 Manchester Road,St. Louis,MO 63011</name>
@@ -1240,6 +1393,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.492973,38.596297</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>14021 Manchester Rd,St. Louis, 63011</name>
@@ -1248,6 +1402,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4944169,38.596084</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1415 Michele Drive,St. Louis ,MO 63122</name>
@@ -1256,6 +1411,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3980976,38.6056486</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1451 Silvers Road,St. Peters,MO 63376</name>
@@ -1264,6 +1420,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.637135,38.807589</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>14754 Manchester Rd,Ballwin,MO 63011</name>
@@ -1272,6 +1429,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5337953,38.5925561</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>150 North Meramec, Suite 200,Clayton,MO 63105</name>
@@ -1280,6 +1438,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3388767,38.6536119</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>150 Tof of Rock Road,Springfield,MO 65672</name>
@@ -1288,6 +1447,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.248045,36.535959</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>150 Top of Rock Road,Springfield,MO 65672</name>
@@ -1296,6 +1456,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.248045,36.535959</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>150 Top of the Rock Road,Ridgedale,MO 65739</name>
@@ -1304,6 +1465,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2490818,36.5345904</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>150 Top of the Rock Road,Springfield,MO 65807</name>
@@ -1312,6 +1474,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2490818,36.5345904</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1500 Block of Hwy N,Bowling Green,MO 63334</name>
@@ -1320,6 +1483,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.2031411,39.3437902</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>15121 Manchester Rd.,Ballwin,MO 63011</name>
@@ -1328,6 +1492,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.552301,38.593315</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1535 Indian Hills Lane,Ballwin,MO 63021</name>
@@ -1336,6 +1501,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.479485,38.588698</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>15662 Manchester Road,Ellisville,MO 63011</name>
@@ -1344,6 +1510,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5752379,38.5922682</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>15675 Manchester Rd,Ellisville,MO 63011</name>
@@ -1352,6 +1519,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5768444,38.5936119</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>15675 Manchester Rd.,Ellisville,MO 63011</name>
@@ -1360,6 +1528,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5768444,38.5936119</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>160 Gravois Bluffs Circle Drive,Fenton,MO 63126</name>
@@ -1368,6 +1537,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4448964,38.5038721</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1600 Mid Rivers Mall,St. Peters,MO 63376</name>
@@ -1376,6 +1546,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6159688,38.7960762</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1610 Des Peres Road Ste 204,St. Louis,MO 63131</name>
@@ -1384,6 +1555,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4521532,38.6047459</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>16111 Manchester Road,Ellisville,MO 63011</name>
@@ -1392,6 +1564,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5976431,38.5905883</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>17280 N Outer 40 Rd.,Chesterfield,MO 63005</name>
@@ -1400,6 +1573,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5970757,38.6714861</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1752 N. New Florissant Rd.,Florissant, MO 63033,MO 63033</name>
@@ -1408,6 +1582,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3147387,38.8012331</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>17906 Gray Abbey Court,Chesterfield,MO 63005</name>
@@ -1416,6 +1591,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6394258,38.6517557</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>17906 Gray Abbey Ct.,Chesterfield,MO 63005</name>
@@ -1424,6 +1600,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6394258,38.6517557</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18130 Edision Ave.,Chesterfield,MO 63005</name>
@@ -1432,6 +1609,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6395063,38.6634626</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18130 Edison Ave.,Chesterfield, 63005</name>
@@ -1440,6 +1618,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6395063,38.6634626</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18155 Old Highway 66,Eureka,MO 63001</name>
@@ -1448,6 +1627,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6738405,38.5047495</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18216 Edison Ave.,Chesterfield,MO 63005</name>
@@ -1456,6 +1636,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6434435,38.6637545</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18224 Ashford Oaks Drive,Wildwood,MO 63038</name>
@@ -1464,6 +1645,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6500727,38.6002514</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18270 Edison Ave.,Chesterfield, 63005</name>
@@ -1472,6 +1654,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.645434,38.663249</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18270 Edison Ave.,Chesterfield,MO 63005</name>
@@ -1480,6 +1663,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.645434,38.663249</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>18449 Old Highway 66,Eureka,MO 63001</name>
@@ -1488,6 +1672,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5965346,38.5038577</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>19 Upper Ladue Road,Ladue,MO 63124</name>
@@ -1496,6 +1681,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3900845,38.6471136</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>190 Top of the Rock Road,Ridgedale ,MO 65739</name>
@@ -1504,6 +1690,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.248509,36.531623</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>190 Top of the Rock Road,Ridgedale,MO 65739</name>
@@ -1512,6 +1699,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.248509,36.531623</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1901 State Hwy 86,Ridgedale,MO 65739</name>
@@ -1520,6 +1708,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.263919,36.5201592</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 S Campbell Aveue,Springfield,MO 65807</name>
@@ -1528,6 +1717,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 S Campbell Street,Springfield,MO 65807</name>
@@ -1536,6 +1726,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 S. Campbell ,Springfield,MO 65804</name>
@@ -1544,6 +1735,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2962358,37.1799424</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 S. Campbell Ave,Springfield,MO 65807</name>
@@ -1552,6 +1744,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 S. Campbell Avenue,Springfield,MO 65807</name>
@@ -1560,6 +1753,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 S. Campbell,Springfield,MO 65898</name>
@@ -1568,6 +1762,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 South Campbell Ave.,Springfield ,MO 65807</name>
@@ -1576,6 +1771,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 South Campbell Avenue,Springfield,MO 65807</name>
@@ -1584,6 +1780,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1935 South Campbell,Springfield,MO 65807</name>
@@ -1592,6 +1789,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2968957,37.1797995</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>200 Main Street,St. Peters,MO 63376</name>
@@ -1600,6 +1798,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6255352,38.801498</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2001 East Terra Lane,O'Fallon,MO 63366</name>
@@ -1608,6 +1807,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.666045,38.805735</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>202 N Washington Street,Salem,MO 65560</name>
@@ -1616,6 +1816,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.5372368,37.6442808</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>205 First Executive Ave.,St. Peters,MO 63376</name>
@@ -1624,6 +1825,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5837694,38.7933865</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2100 NW Barry Road,Kansas City,MO 64154</name>
@@ -1632,6 +1834,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-94.6050652,39.24643</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2105 Warson Road,Ladue,MO 63124</name>
@@ -1640,6 +1843,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.397445,38.626686</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>220 Old Meramec,,MO</name>
@@ -1648,6 +1852,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.511114,38.590515</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2344 Hampton Ave.,St. Louis,MO 63139</name>
@@ -1656,6 +1861,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.2869335,38.6136066</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2354-56 Centerline Industrial Drive,Maryland Heights,MO 63146</name>
@@ -1664,6 +1870,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4342428,38.704943</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>25 Bellerive Country Club Dr.,St. Louis,MO 63141</name>
@@ -1672,6 +1879,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4897069,38.6593153</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>250 Lakewood Drive,Hollister,MO 65672</name>
@@ -1680,6 +1888,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.291751,36.54606</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2500 E Kearny Street,Springfield,MO 65898</name>
@@ -1688,6 +1897,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2459149,37.2363701</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2500 E. Kearney,Springfield,MO 65898</name>
@@ -1696,6 +1906,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2459149,37.2363701</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2500 East Kearny Drive,Springfield,MO 65898</name>
@@ -1704,6 +1915,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2459149,37.2363701</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2500 East Kearny Street,Springfield,MO 65898</name>
@@ -1712,6 +1924,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2459149,37.2363701</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>25551 Dry Fork Road,Warrenton,MO 63383</name>
@@ -1720,6 +1933,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-91.1635312,38.7799171</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>271 Silvers Road,St. Peters,MO 63376</name>
@@ -1728,6 +1942,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.630688,38.83602</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2727 West Clay,St. Charles, 63301</name>
@@ -1736,6 +1951,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5218687,38.7843212</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2897 Highway K, Suite 200,O'Fallon,MO 63368</name>
@@ -1744,6 +1960,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.7006885,38.7614132</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2897 Highway K,O'Fallon, MO 63368,MO 63368</name>
@@ -1752,6 +1969,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.7006885,38.7614132</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2897 Highway K,O'Fallon,MO 63044</name>
@@ -1760,6 +1978,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.7006885,38.7614132</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2897 Highway K,O'Fallon,MO 63368</name>
@@ -1768,6 +1987,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.7006885,38.7614132</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2897 State Hwy K,O'Fallon,MO 63368</name>
@@ -1776,6 +1996,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.7006885,38.7614132</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>29 Upper Ladue Road,Ladue,MO 63124</name>
@@ -1784,6 +2005,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3899557,38.652132</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2923 Telegraph Rd.,St. Louis,MO 63125</name>
@@ -1792,6 +2014,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.2972231,38.5043879</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3 Appletree Lane,St. Louis, 63124</name>
@@ -1800,6 +2023,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3915711,38.6530856</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3 Appletree Lane,St. Louis,MO 63124</name>
@@ -1808,6 +2032,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3915711,38.6530856</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3025 Oak Grove Road,Poplar Bluff,MO 63901</name>
@@ -1816,6 +2041,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4410854,36.7901139</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>31 Brighton Way,Clayton,MO 63105</name>
@@ -1824,6 +2050,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.344301,38.651245</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3108 N. Grand Blvd.,St. Louis,MO 63107</name>
@@ -1832,6 +2059,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.2181706,38.6584863</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3125 Boschertown Road ,St. Charels,MO 63301</name>
@@ -1840,6 +2068,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.48654,38.825732</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3125 Boschertown Road,St. Charles,MO 63301</name>
@@ -1848,6 +2077,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.48654,38.825732</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3125 Boschertown Road,St.Charles,MO 63301</name>
@@ -1856,6 +2086,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.48654,38.825732</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>316 N. 8th Street, #6,St. Louis,MO 63101</name>
@@ -1864,6 +2095,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.1920656,38.6289777</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3170 E. Farm Road 94,Springfield,MO 65803</name>
@@ -1872,6 +2104,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2302401,37.269024</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3170 E. Farm Road 94,Springfiled,MO 65803</name>
@@ -1880,6 +2113,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2302401,37.269024</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3170 East Farm Road 94,Green County,MO 65803</name>
@@ -1888,6 +2122,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2302401,37.269024</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3170 East Farm Road 94,Springfield,MO 65804</name>
@@ -1896,6 +2131,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2302401,37.269024</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3303 S. Campbell Avenue,Springfield,MO 65807</name>
@@ -1904,6 +2140,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2973352,37.1550208</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>34 Hidden Vista,Defiance,MO 63341</name>
@@ -1912,6 +2149,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.8808652,38.6965022</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3431 Union,St. Louis,MO 63115</name>
@@ -1920,6 +2158,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.2612707,38.6793947</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>35 Overhills Dr.,Ladue,MO 63124</name>
@@ -1928,6 +2167,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3739673,38.6353877</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>35 Squires Lane,Huntleigh,MO 63131</name>
@@ -1936,6 +2176,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.412224,38.610181</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>35 Squires Lane,Huntleight,MO 63131</name>
@@ -1944,6 +2185,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.412224,38.610181</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3638 Bayless Avenue,St. Louis,MO 63125</name>
@@ -1952,6 +2194,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.2806613,38.541096</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>37 Fair Oaks Dr,St. Louis,MO 63124</name>
@@ -1960,6 +2203,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3634626,38.6351513</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3717 Tree Court Industrial Blvd,St. Louis,MO 63122</name>
@@ -1968,6 +2212,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4570974,38.5586156</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3800 Mueller Road,St. Charles,MO 63301</name>
@@ -1976,6 +2221,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5102067,38.8300609</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3800 W. Washita Street,Springfield,MO 65807</name>
@@ -1984,6 +2230,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.3499553,37.1801656</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3840 Millstone Parkway,St. Charles,MO 63301</name>
@@ -1992,6 +2239,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5206278,38.8197884</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3900 Shady Springs Lane,St. Peters,MO 63376</name>
@@ -2000,6 +2248,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5711491,38.8010127</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3950 Hoffman Rd.,Wentzville, 63385</name>
@@ -2008,6 +2257,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.821696,38.732677</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3950 Hoffman Road,Wentzville,MO 63385</name>
@@ -2016,6 +2266,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.821696,38.732677</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>400 Silvers Road,St. Peters, 63376</name>
@@ -2024,6 +2275,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.637745,38.835983</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>400 Silvers Road,St. Peters,MO 63376</name>
@@ -2032,6 +2284,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.637745,38.835983</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>410 West Fourth Street,Eureka,MO 63025</name>
@@ -2040,6 +2293,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6339645,38.505209</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4140 Old Mill Pkwy,St. Peters,MO 63376</name>
@@ -2048,6 +2302,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5740427,38.7893097</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>427 Little Hills Blvd,St. Charles,MO 63301</name>
@@ -2056,6 +2311,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4778632,38.8059593</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4325 Hueffmeier Road,Defiance, 63385</name>
@@ -2064,6 +2320,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.830181,38.721029</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>435 S County Center Way,St. Louis,MO 63129</name>
@@ -2072,6 +2329,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3285642,38.5043829</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4400 Earth City Expressway,Earth City, 63045</name>
@@ -2080,6 +2338,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4609231,38.7742777</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4400 Earth City Parkway,Earth City,MO</name>
@@ -2088,6 +2347,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4604068,38.7745544</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4435 Telegraph Road,St. Louis,MO 63129</name>
@@ -2096,6 +2356,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3050816,38.48371</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4601 Mid Rivers Mall Dr,Cottleville,MO 63376</name>
@@ -2104,6 +2365,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6398705,38.7590918</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>4675 Gravois Rd,House Springs,MO 63051</name>
@@ -2112,6 +2374,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5780937,38.4120776</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>494 Tan Tar A Dr.,Osage Beach,MO 65065</name>
@@ -2120,6 +2383,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-92.7181129,38.1285949</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5 Huntleigh Manor Dr.,St. Louis,MO 63131</name>
@@ -2128,6 +2392,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4142669,38.6164234</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>50 W Sunshine Street,Springfield,MO 65807</name>
@@ -2136,6 +2401,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.3360207,37.1827403</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>500 W. Sunshine Street,Springfield,MO 65807</name>
@@ -2144,6 +2410,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2961738,37.1817079</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>500 West Sunshine Road,Springfield,MO 65807</name>
@@ -2152,6 +2419,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2961738,37.1817079</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5200 Mexico Rd.,St. Peters,MO 63376</name>
@@ -2160,6 +2428,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.5930382,38.7920763</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>529 Huffman Mill Road,Burlington,MO 27215</name>
@@ -2168,6 +2437,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-79.4937644,36.0751064</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>600 Cannonball Lane,O'Fallon,MO 63366</name>
@@ -2176,6 +2446,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.66239,38.804713</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>600 W. Sunshine Street,Springfield,MO 65807</name>
@@ -2184,6 +2455,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-93.2975239,37.1810858</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7205 Forsyth Blvd,St. Louis,MO 63105</name>
@@ -2192,6 +2464,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3217172,38.6482251</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7593 Olive Blvd,University City,MO 63130</name>
@@ -2200,6 +2473,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3360299,38.672503</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7824 Gannon Ave,University City,MO 63130</name>
@@ -2208,6 +2482,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3407718,38.6603333</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>790 Sontag Road,Ballwin,MO 63021</name>
@@ -2216,6 +2491,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.563408,38.553967</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>807 State Hwy T,Foistell,MO 63348</name>
@@ -2224,6 +2500,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.9621118,38.7794042</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>819 South Main Street,St. Charles, 63301</name>
@@ -2232,6 +2509,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.4845796,38.7753443</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8336 North Broadway,St. Louis,MO 63147</name>
@@ -2240,6 +2518,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.2301134,38.7133575</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>856 Waterbury 2nd Floor,O'Fallon,MO 63304</name>
@@ -2248,6 +2527,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-73.0514965,41.5581525</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8625 Grant Road,St. Louis,MO 63132</name>
@@ -2256,6 +2536,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3665236,38.5611696</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8883 Highway DD,Ofallon,MO 63368</name>
@@ -2264,6 +2545,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.765592,38.746603</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8960 Jennings Station Rd.,Jennings,MO 63136</name>
@@ -2272,6 +2554,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.245409,38.726052</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>9630 Ladue,St. Louis, 63124</name>
@@ -2280,6 +2563,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3842527,38.6418687</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>9752 Litzsinger Road,Ladue,MO 63124</name>
@@ -2288,6 +2572,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.3822969,38.6222524</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>Busch Properties,St. Peters,MO 63376</name>
@@ -2296,6 +2581,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6300362,38.8054487</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>Busch Residence,St. Peters,MO 63376</name>
@@ -2304,6 +2590,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6300362,38.8054487</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>Multiple Cities &amp; States,,MO</name>
@@ -2312,6 +2599,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-92.1735164,38.5767017</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>South County ,St. Louis,MO</name>
@@ -2320,6 +2608,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.331349,38.506501</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>6714-6784 Mexico Road,St. Peters,MO 63376</name>
@@ -2328,6 +2617,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.6174209,38.7884559</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>100 Cabela's Court,Moncton,NB E1G 5V7</name>
@@ -2336,6 +2626,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-64.8345502,46.1277079</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>201 Cabela Drive,Garner,NC 27529</name>
@@ -2344,6 +2635,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-78.5811666,35.6983979</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>8325 IKEA Blvd,Charlotte,NC 28262</name>
@@ -2352,6 +2644,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.7614515,35.2920739</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3088 Silverberg Drive,Sidney,NE 69160</name>
@@ -2360,6 +2653,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-102.948548,41.1161517</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>740 N. 14th Street,Omaha,NE 68102</name>
@@ -2368,6 +2662,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-95.9347791,41.2668781</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>#2 Commerce Drive,Hooksett,NH 3106</name>
@@ -2376,6 +2671,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-71.4761295,43.0389936</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1817 Mt Holly Rd,Burlington Township,NJ 8016</name>
@@ -2384,6 +2680,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-74.841582,40.0533971</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>70 Centerton Road,Mt. Laurel,NJ 8054</name>
@@ -2392,6 +2689,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-74.9109305,39.971876</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1925 Turnbull Avenue,Bronx,NY 10473</name>
@@ -2400,6 +2698,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-73.8579818,40.8228833</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>517 East 117th Street,New York,NY 10035</name>
@@ -2408,6 +2707,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-73.9310222,40.795386</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>3575 W Dublin-Granville Road,Columbus,OH 43235-7900</name>
@@ -2416,6 +2716,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-83.087304,40.0917766</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>Flats East Bank Station,Cleveland,OH 44113</name>
@@ -2424,6 +2725,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-81.703495,41.4994567</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>600 Riverwalk,Jenks,OK 74037</name>
@@ -2432,6 +2734,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-95.9601743,36.0281516</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>424 W. Oregon Avenue,Philadelphia,PA 19148-4605</name>
@@ -2440,6 +2743,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-75.1565446,39.9122972</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>Carr PR-908 Centro Comercial,Humacao,PR 791</name>
@@ -2448,6 +2752,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-65.8372571,18.1446115</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>Woodruff Rd &amp; Hwy 14,Simpsonville,SC 29681</name>
@@ -2456,6 +2761,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.2562745,34.8199141</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 A.W. Willis Drive,Memphis,TN 38105</name>
@@ -2464,6 +2770,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.051943,35.1559802</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1720 South Scenic Hwy,Chattanooga,TN 37409</name>
@@ -2472,6 +2779,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-85.339364,35.0190992</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>5040 Park Avenue,Memphis,TN 38117</name>
@@ -2480,6 +2788,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-89.8928232,35.10718</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 Cabela Drive,Allen,TX 75002</name>
@@ -2488,6 +2797,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-96.6639791,33.1213361</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>210 North Edward Gary,San Marcos,TX 78666</name>
@@ -2496,6 +2806,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-97.9387123,29.883962</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2360 Dean Way,Southlake,TX 76092</name>
@@ -2504,6 +2815,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-97.115425,32.93099</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>2502 Cabelas Blvd,Lehi,UT 84043</name>
@@ -2512,6 +2824,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-111.8890904,40.4375305</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>361 Cabela's Drive,Bristol,VA 24202</name>
@@ -2520,6 +2833,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-82.1473097,36.6265</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>7411 W. Canal Street,Everett,WA 98208</name>
@@ -2528,6 +2842,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-119.221079,46.2252488</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>1 Cabela Drive,Triadelphia,WV 26059</name>
@@ -2536,6 +2851,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.5964357,40.0596604</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>35 Squires Lane,Huntleigh, 63131</name>
@@ -2544,6 +2860,7 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-90.412224,38.610181</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
 	<name>L.G. Smith Boulevard 82,Oranjestad,</name>
@@ -2552,5 +2869,6 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-70.0377745,12.5191998</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
   </Placemark>
 </Document></kml>
