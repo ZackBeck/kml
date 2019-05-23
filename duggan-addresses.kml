@@ -10,6 +10,9 @@
       <Point><coordinates>-114.0447981,51.105773</coordinates></Point>
   </Placemark>
   <Placemark>
+	  <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+         </Icon>
 	<name>1360 Glenn Square,Anchorage,AK 99508</name>
 	<description>3090 Mountain View Dr, Anchorage, AK 99501, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
