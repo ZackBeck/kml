@@ -2700,6 +2700,15 @@
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
+	<name>2001-2003 Walden Avenue,Cheektowaga,NY 14225</name>
+	<description>2001-2003 Walden Avenue,Cheektowaga,NY 14225</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>42.5689201,-79.8395228</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
 	<name>517 East 117th Street,New York,NY 10035</name>
 	<description>517 E 117th St, New York, NY 10035, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
