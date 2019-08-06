@@ -2705,7 +2705,7 @@
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
-      <Point><coordinates>42.5689201,-79.8395228</coordinates></Point>
+      <Point><coordinates>-79.8395228,42.5689201</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
