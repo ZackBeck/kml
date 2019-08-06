@@ -2619,6 +2619,17 @@
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
+	<name>4550 King Avenue East,Billings,MT 59101</name>
+	<description>4550 King Avenue East,Billings,MT 59101, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-108.5315283,45.7531035</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+
+
+  <Placemark>
 	<name>100 Cabela's Court,Moncton,NB E1G 5V7</name>
 	<description>100 Cabela Ct, Moncton, NB E1G, Canada</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
