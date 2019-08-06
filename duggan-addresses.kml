@@ -2627,8 +2627,6 @@
       <Point><coordinates>-108.5315283,45.7531035</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
-
-
   <Placemark>
 	<name>100 Cabela's Court,Moncton,NB E1G 5V7</name>
 	<description>100 Cabela Ct, Moncton, NB E1G, Canada</description>
@@ -2636,6 +2634,24 @@
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-64.8345502,46.1277079</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>499 Paul Street,Dieppe,NB E1A 6S5</name>
+	<description>499 Paul Street,Dieppe,NB E1A 6S5, Canada</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-64.7637793,46.0990382</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>1230 Timbe Dr East,Garner,NC 27529</name>
+	<description>1230 Timbe Dr East,Garner,NC 27529 USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.5796582,35.6875772</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
@@ -2648,12 +2664,57 @@
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
+	<name>240 Market View Drive,Kernersville,NC 27284</name>
+	<description>240 Market View Drive,Kernersville,NC 27284 USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.0894092,36.1140527</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>2810 Freedom Pkwy Dr,Fayetteville,NC 28314</name>
+	<description>2810 Freedom Pkwy Dr,Fayetteville,NC 28314 USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.9691474,35.0582848</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>9640 Leesville Road,Raleigh,NC 27613 27284</name>
+	<description>9640 Leesville Road,Raleigh,NC 27613 USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.7297097,35.9057815</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>5601 Cliffdale Road,Fayetteville,NC 28314 27284</name>
+	<description>5601 Cliffdale Road,Fayetteville,NC 28314 27284 USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.9691474,35.0582848</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
 	<name>8325 IKEA Blvd,Charlotte,NC 28262</name>
 	<description>8325 Ikea Blvd, Charlotte, NC 28262, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-80.7614515,35.2920739</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>115 Cabela's Drive,Sidney,NE 69160</name>
+	<description>115 Cabela's Drive,Sidney,NE 69160, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.9588805,41.1145787</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
@@ -2666,6 +2727,24 @@
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
+	<name>333 S. 132nd Street,Omaha,NE 68154</name>
+	<description>333 S. 132nd Street,Omaha,NE 68154, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.1192503,41.2568348</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>3600 US 30,Kearney,NE 68847</name>
+	<description>3600 US 30,Kearney,NE 68847, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-99.0352918,40.7077814</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
 	<name>740 N. 14th Street,Omaha,NE 68102</name>
 	<description>740 N 14th St, Omaha, NE 68102, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
@@ -2675,12 +2754,57 @@
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
-	<name>#2 Commerce Drive,Hooksett,NH 3106</name>
+	<name>885 South 72nd Street,Omaha,NE 68106</name>
+	<description>885 South 72nd Street,Omaha,NE 68106, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.0243591,41.2519479</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>One Cabela Drive,Sidney,NE 69160</name>
+	<description>One Cabela Drive,Sidney,NE 69160, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-102.9591386,41.1146213</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>#2 Commerce Drive,Hooksett,NH 03106</name>
 	<description>2 Commerce Dr, Hooksett, NH 03106, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-71.4761295,43.0389936</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>270 Amgersy Street,Nashua,NH 03063</name>
+	<description>270 Amgersy Street,Nashua,NH 03063, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.5004919,42.7773247</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>3684 Route 9 North,Freehold,NH 07728</name>
+	<description>3684 Route 9 North,Freehold,NH 07728, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.2822965,40.2466101</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>180 Bergen Town Center,Paramus,NJ 07652</name>
+	<description>180 Bergen Town Center,Paramus,NJ 07652, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0627168,40.9155341</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
@@ -2693,12 +2817,66 @@
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
+	<name>30 Christopher Columbus Blvd.,Atlantic City,NJ 08401</name>
+	<description>30 Christopher Columbus Blvd.,Atlantic City,NJ 08401, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.4416585,39.358449</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>651 Kapkowski Rd. Suite 30,Elizabeth,NJ 07201-4928</name>
+	<description>651 Kapkowski Rd. Suite 30,Elizabeth,NJ 07201-4928, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1735312,40.6601923</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>6940 Hadley Road,South Plainfield,NJ 7080</name>
+	<description>6940 Hadley Road,South Plainfield,NJ 7080, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.434772,40.5536629</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
 	<name>70 Centerton Road,Mt. Laurel,NJ 8054</name>
 	<description>70 Centerton Rd, Mt Laurel Township, NJ 08054, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-74.9109305,39.971876</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>5151 Lang Avenue, NE,Albuquerque,NM 87109</name>
+	<description>5151 Lang Avenue, NE,Albuquerque,NM 87109, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.5883167,35.1732267</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>50 Cabela Rd,Dartmouth,NS B3B0M5</name>
+	<description>50 Cabela Rd,Dartmouth,NS B3B0M5, Canada</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.5609559,44.7095769</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>8200 Dean Martin Drive,Las Vegas,NV 89139</name>
+	<description>8200 Dean Martin Drive,Las Vegas,NV 89139, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-115.1857372,36.0415849</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
@@ -2729,12 +2907,84 @@
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
+	<name>400 River Road,Utica,NY 13502</name>
+	<description>400 River Road,Utica,NY 13502, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2247576,43.1266505</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>9090 Destiny USA Drive,Syracuse,NY 13204</name>
+	<description>9090 Destiny USA Drive,Syracuse,NY 13204, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.1740487,43.0672205</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>1650 Gemini Place,Columbus,OH 43240</name>
+	<description>1650 Gemini Place,Columbus,OH 43240, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.9753676,40.1492552</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>19852 Ohio 664,Logan,OH 43138</name>
+	<description>19852 Ohio 664,Logan,OH 43138, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.5401605,39.4375722</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
 	<name>3575 W Dublin-Granville Road,Columbus,OH 43235-7900</name>
 	<description>3575 W Dublin Granville Rd, Columbus, OH 43235, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-83.087304,40.0917766</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>4790 Everhard Rd NW,Canton,OH 44718-2411</name>
+	<description>4790 Everhard Rd NW,Canton,OH 44718-2411, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.4364447,40.8538154</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>500 E Aurora,Maceonia,OH 44056-1804</name>
+	<description>500 E Aurora,Maceonia,OH 44056-1804, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.5225776,41.3125401</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>7250 Cabela Drive,West Chester,OH 45069</name>
+	<description>7250 Cabela Drive,West Chester,OH 45069, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.3703973,39.3680845</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>7267 Yankeee Road,Liberty Township,OH 45044</name>
+	<description>7267 Yankeee Road,Liberty Township,OH 45044, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.3797014,39.3747822</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
   <Placemark>
@@ -2746,9 +2996,28 @@
       <Point><coordinates>-81.703495,41.4994567</coordinates></Point>
   <styleUrl>#yellow</styleUrl>
   </Placemark>
+
+  <Placemark>
+	<name>1200 W. Memorial,Oklahoma City,OK 73114</name>
+	<description>1200 W. Memorial,Oklahoma City,OK 73114, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.5365648,35.6059642</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
+  <Placemark>
+	<name>2101 NE 50th Street,Oklahoma City,OK 73111</name>
+	<description>2101 NE 50th Street,Oklahoma City,OK 73111, USA</description>
+	<ExtendedData><SchemaData schemaUrl="#Waypoints">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.5365648,35.6059642</coordinates></Point>
+  <styleUrl>#yellow</styleUrl>
+  </Placemark>
   <Placemark>
 	<name>600 Riverwalk,Jenks,OK 74037</name>
-	<description>600 Riverwalk Terrace, Jenks, OK 74037, USA</description>
+	<description>600 Riverwalk Terrace, Jenks,OK 74037, USA</description>
 	<ExtendedData><SchemaData schemaUrl="#Waypoints">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 	</SchemaData></ExtendedData>
